@@ -1,4 +1,4 @@
-#Scrolllight
+# Scrolllight
 
 This tool automatically finds and enables the Scroll Lock light in connected USB keyboards.
 
